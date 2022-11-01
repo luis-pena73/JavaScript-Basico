@@ -16,3 +16,4 @@ console.log (estudiante.length);
 console.log (nombre.charAt(0))
 console.log (apellido.charAt(3))
 console.log (estudiante.replaceAll(" ",""));
+console.log (estudiante.includes("luis fernando"))
