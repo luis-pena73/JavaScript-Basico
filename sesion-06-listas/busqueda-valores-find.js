@@ -1,4 +1,4 @@
-// Iterar los valores de una lista
+/   / Iterar los valores de una lista
 const array = ["hola", 2, 5, 90, false, undefined]
 
 // Forma antigua (poco eficiente)
