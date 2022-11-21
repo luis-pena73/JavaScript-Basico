@@ -1,0 +1,3 @@
+{"level":"info","message":"te puedo ayudar en algo","service":"user-service"}
+{"level":"warn","message":"esta accion puede tener consecuencias","service":"user-service"}
+{"level":"error","message":"esta accion es errada","service":"user-service"}
