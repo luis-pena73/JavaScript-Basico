@@ -5,7 +5,7 @@ class Persona {
     constructor(nombre, edad) {
         this._nombre = nombre
         this._edad = edad
-    }
+    }   
 
     saludo() {
         console.log(`Hola, mi nombre es ${this._nombre}, tengo ${this._edad} años.`)
